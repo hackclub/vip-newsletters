@@ -38,12 +38,12 @@ The world is more uncertain than ever right now, but it underscores the importan
 
 You can check out what our students have built over the last 72 hours below. Thank you so much for being part of what we're doing.
 
-- Zach Latta
+\- Zach Latta
 
 **COVID-19 Slackathon student projects:**
 
--   Web app / Google Classroom tool for teachers to administer worksheets remotely
--   [Database](https://i.imgur.com/fGnNhDd.png) to monitor food and household supplies
--   [In-game video calling](https://i.imgur.com/goEmLWJ.png) in Minecraft
--   Slideshow for children explaining exponential growth through a fable
--   [Interactive website visualization](https://countrycovid19.netlify.com/) of the COVID-19 pandemic by country (and first open source production project using [RedwoodJS](https://redwoodjs.com/)).
+- Web app / Google Classroom tool for teachers to administer worksheets remotely
+- [Database](https://i.imgur.com/fGnNhDd.png) to monitor food and household supplies
+- [In-game video calling](https://i.imgur.com/goEmLWJ.png) in Minecraft
+- Slideshow for children explaining exponential growth through a fable
+- [Interactive website visualization](https://countrycovid19.netlify.com/) of the COVID-19 pandemic by country (and first open source production project using [RedwoodJS](https://redwoodjs.com/)).
