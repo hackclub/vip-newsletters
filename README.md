@@ -6,4 +6,4 @@ The hope is that we'll publish our VIP updates with approximately a 6 week delay
 
 VIP newsletters are written by Christina and Lachlan with final edits from me. We aim to send out every other Tuesday or Wednesday.
 
-- Zach
+\- Zach
