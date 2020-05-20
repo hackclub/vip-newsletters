@@ -8,7 +8,7 @@ During these very hard days of COVID-19, I am appreciating the Hack Club communi
 
 This week, Hack Club's Slack had ~4,000 messages per day, double our usual volume. This Sunday, we hosted our first student AMA with GitHub founder and RedwoodJS creator Tom Preston-Werner. Nearly 100 students tuned in from 11 countries. Thank you [@mojombo](https://twitter.com/mojombo).
 
-![](https://postal.hackclub.com/uploads/1585160680.png)
+![](tom_ama.png)
 
 Before nationwide school closures, Hack Club students led nearly 400 after-school computer science clubs in almost all 50 states. Since none of them can meet, we've moved entirely online.
 
