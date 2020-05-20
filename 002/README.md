@@ -22,4 +22,4 @@ Our 5-year goal is to have a Hack Club in 50% of U.S. high schools; our 10-year 
 
 In a world getting less certain by the day, Hack Club is providing one of the most friendly and important spaces of connection, creativity, & passion for teenagers around the world. Thank you for your support.
 
-- Zach
+\- Zach
