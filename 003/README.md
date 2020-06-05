@@ -1,4 +1,4 @@
-_Sent Thursday, April 9th, 2020 at 10:25 AM._
+_Sent Thursday, April 9th, 2020 at 1:25 PM Eastern Time._
 
 # VIP Hack Club Update
 
