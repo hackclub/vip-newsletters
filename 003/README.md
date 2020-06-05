@@ -10,11 +10,11 @@ I'm excited to announce Elon Musk will be the next guest speaker for Hack Club's
 
 On March 27th, we had our 2nd AMA with Hack Club students featuring Facebook's former Head of Product, Chris Cox. Chris talked about early Facebook days, managing 2.5 billion users, spaces vs. tabs, and the world he would create in 500 BC. More than 100 Hack Clubbers participated. Thanks for Ron Conway and Sam Lessin for introducing us to Chris. [Watch the recording.](https://youtu.be/1pn8h2q3Cas)
 
-![](https://postal.hackclub.com/uploads/1586450441.jpeg)
+![](chris_cox_ama.jpg)
 
 Hack Club is doing two things with our students right now: (1) offering a friendly online community with mental health support and (2) helping our students use this time to build projects. To provide support, our Slack channel for girls and femme people in Hack Club had their first meetup (over Zoom) over the weekend and has started hanging out regularly.
 
-![](https://postal.hackclub.com/uploads/1586450505.jpeg)
+![](orpheus_legion.jpg)
 
 Our students are building and launching projects at an incredible rate. Two of our favorites since our last update are a [meadow for your computer](http://twitter.com/SamNChiet/status/1244088898990379009) & a [poem set to an original piano song](https://thesephist.com/you/). This past Wednesday and Thursday, we hosted two "Code in the Dark" activity nights, where 30 Hack Club students competed in a series of 5-minute website-building challenges. Meanwhile, GitHub featured the [Predict COVID](https://predictcovid.com/) site Hack Club's Lachlan Campbell and I made [on their blog](https://github.blog/2020-03-23-open-collaboration-on-covid-19/). We have much more to share as we continue building out our curriculum.
 
