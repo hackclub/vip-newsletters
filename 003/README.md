@@ -1,3 +1,7 @@
+_Sent Thursday, April 9th, 2020._
+
+# VIP Hack Club Update
+
 _The following is a brief update on Hack Club. We send it every other week, only to our supporters and friends. If you'd prefer not to receive it, click [here](https://postal.hackclub.com/unsubscribe-success.php?c=179)._
 
 Dear friends,
