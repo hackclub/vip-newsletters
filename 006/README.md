@@ -51,6 +51,6 @@ Zach Latta
 Founder, Hack Club | [zach@hackclub.com](mailto:zach@hackclub.com) | [Donate](https://hackclub.com/donate/)  
 [@zachlatta](https://twitter.com/zachlatta) / [fb](https://facebook.com/crynix) / [web](https://zachlatta.com/) / [github](https://github.com/zachlatta)
 
-_(like in all Hack Club emails, we respect your privacy and don't track whether you open this email or click links in it.  
-  
-we only send this update to a small group of friends and supporters, if you'd prefer to not receive these, that's ok! click [here](https://postal.hackclub.com/unsubscribe-success.php?c=181))_
+_(like in all Hack Club emails, we respect your privacy and don't track whether you open this email or click links in it._
+
+_we only send this update to a small group of friends and supporters, if you'd prefer to not receive these, that's ok! click [here](https://postal.hackclub.com/unsubscribe-success.php?c=181))_
