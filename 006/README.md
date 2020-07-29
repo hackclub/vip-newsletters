@@ -30,6 +30,8 @@ As the school year nears its ending, many of the 15 million US high school stude
 
 Hack Club students are shipping like crazy. Check out some of the many student projects from the past 2 weeks:
 
+Hi there!
+
   * Kate M. (North Carolina), a brand new member, followed Hack Club’s Personal Website tutorial to write [her first-ever website](https://darkorangelittlequeries.ktmize.repl.co/)
   * [Felix M.](https://kognise.dev/) (Brooklyn, NY) made a web-based [key/value database client](https://dash.s1.kognise.dev/) using Next.js & Ant Design
   * Rishi K. (Brampton, Canada) published [Hoot, a command line schoolwork tracker](https://github.com/rishiosaur/hoot)
