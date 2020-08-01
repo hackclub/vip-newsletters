@@ -34,7 +34,7 @@ Likewise, our Twitter following grew from 1.8K to 11.8K in that same period. We 
 
 Since our last newsletter, Hack Club students announced: [Summer of Making](https://summer.hackclub.com/), in which hundreds of students will be paired with professional engineer mentors as they build a project of their choice over the summer. Students building hardware projects can get electronics, soldering irons, and supplies granted to them through a $50K fund negotiated by Hack Club with GitHub.
 
-15-year-old Sam P. and friends launched this. Read [GitHub’s blog post](https://github.blog/2020-05-28-introducing-hack-clubs-summer-of-making/). Thanks Adafruit for offering discounts. Plus, founder Limor Fried speaks with Hack Club students on June 25th.
+15-year-old Sam P. and friends launched this. Read [GitHub’s blog post](https://github.blog/2020-05-28-introducing-hack-clubs-summer-of-making/). Thanks Adafruit & Arduino for offering discounts. Plus, founder Limor Fried speaks with Hack Club students on June 25th.
 
 Seven members of the Hack Club team are now together in an inn in Vermont surrounded by whiteboards with students on the phone to get everything together.
 
