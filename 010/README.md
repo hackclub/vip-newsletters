@@ -48,7 +48,7 @@ Bank helps students build in the real world. In the past, students couldn’t ex
 
 **Hiring Students**
 
-Before we hire students in our community full-time, we first give them two weeks of a paid trial for them to bring their initial ideas to fruition. In the last two weeks, we’ve given three new students trial periods. [Chaleb P.](https://scrapbook.hackclub.com/iamcpdev) (they/them, 15, Miramar, FL) has joined working on Hack Club Bank operations. [Malte L.](https://scrapbook.hackclub.com/malte) (he/him, 16, Germany) is improving our Slack community and [Amogh C.](https://scrapbook.hackclub.com/amogh) (he/him, 17, Storrs, CT) is organizing & hosting live events, both with staffer Melody.
+Before we hire students in our community full-time, we first give them two weeks of a paid trial for them to bring their initial ideas to fruition. In the last two weeks, we’ve given three new students trial periods. [Chaleb P.](https://scrapbook.hackclub.com/iamcpdev) (they/them, 15, Miramar, FL) has joined working on Hack Club Bank operations. [Malte L.](https://scrapbook.hackclub.com/malte) (they/them, 17, Germany) is improving our Slack community and [Amogh C.](https://scrapbook.hackclub.com/amogh) (he/him, 17, Storrs, CT) is organizing & hosting live events, both with staffer Melody.
 
 _Hack Club is a wholesome place where teeangers can make friends and become technical. Thanks for all your support._
 
