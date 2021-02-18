@@ -64,7 +64,7 @@ Next newsletter, we’ll update you on our 2020-2021 school year launch. We’re
   * **Hack Clubs:** Students start after-school computer-science clubs at their school, online or in a pod;
   * **Events & workshops:** Students develop and imagine big ideas via AMAs with technology industry leaders; and follow weekly technical workshops;
   * **Hack Club Slack:** 10k students have accounts in our community, which is wholesome, fun, intellectual, and technical; and facilitate peer-to-peer learning;
-  * **Money: **Students execute big on their ideas with access to raising & spending money using Hack Club Bank, which offer them 501(c)(3) status.
+  * **Money:** Students execute big on their ideas with access to raising & spending money using Hack Club Bank, which offer them 501(c)(3) status.
 
 We couldn't do it without you all. Thanks for this time together from all of us at Hack Club.
 
