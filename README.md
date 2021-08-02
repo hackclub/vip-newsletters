@@ -13,3 +13,7 @@ The hope is that we'll publish our VIP updates with approximately a 6 week delay
 VIP newsletters are written by Christina with final edits from me. We aim to send out approximately every month.
 
 \- Zach
+
+### Associated Web Pages
+
+This repository only contains the newsletter's content, the associated web pages are generated in the [`hackclub/workshops`](https://github.com/hackclub/workshops) repository.
