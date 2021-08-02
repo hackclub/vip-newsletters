@@ -14,6 +14,10 @@ VIP newsletters are written by Christina with final edits from me. We aim to sen
 
 \- Zach
 
-### Associated Web Pages
+<div class="hidden">
+
+### Associated Web Pages</h3>
 
 This repository only contains the newsletter's content, the associated web pages are generated in the [`hackclub/workshops`](https://github.com/hackclub/workshops) repository.
+
+  </div>
