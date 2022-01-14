@@ -1,65 +1,75 @@
-Hi, It's Christina, COO of Hack Club.
+Dear Hack Club supporters,
 
-One of the biggest challenges to improving CS education is the lack of trained teachers. This month, Hack Club engineer and alum Matthew, 19, took a step towards solving for that by rolling out [Hack Club Meetings](https://meetings.hackclub.com/), where Hack Club leaders record their best meetings as a resource to train friends and other student leaders. 
+As we approach the end of COVID-19 pandemic, we are taking 42 Hack Club teenagers on a trip of a lifetime.
 
-By and for students -- that's Hack Club.  
+We're calling it [The Hacker Zephyr](https://zephyr.hackclub.com/). It's a train trip starting in July at [Hack Club HQ](https://goo.gl/maps/jNQB5kwYoLH11JqM6) in Burlington, Vermont, heading south to New York City, west through Chicago, and crossing the Rockies on our way to San Francisco. From there, we'll follow the Pacific Ocean and end in Los Angeles, where we'll finish at SpaceX.
 
-![img](https://lh4.googleusercontent.com/VA6AK4BfQ9bdzRFC-uSzyay-xwobUHT-IF2b6PP81qvi3htTxW3GXhFUgDzcNUiDKBbi7uKdfob0n9Zclh4AXrAewoatoKLimE3pzmBxNHFnwcgUVOSzNhZyO9pgIaI11BhGSORb)
-*Slack post, above, from Risha Jhangiani, 16, Washington.*
+Onboard, we're hosting the world's longest hackathon on land: 3,502 miles long.
 
-*Here’s your 2-minute read on how we’re building Hack Club—sent to 92 recipients, including our major donors and friends. Thanks for this time together. Happy spring!* 
+Our hope is to create a life-changing experience that will energize the next generation of Hack Club leaders right before the start of the new school year. When Hack Club works, it's because of the teenagers who build it. Every summer we invest deeply in Hack Club leaders, and The Hacker Zephyr will be our biggest investment yet. Our first invitations go out this week.
 
-Special thanks to:
+![Zephyr Sketch](https://cloud-f2yutzz0w-hack-club-bot.vercel.app/0train-valley-small.png)
 
--  **Ron Conway** for doubling his gift to Hack Club in 2021
--  **Kimberly Bryant**, founder of Black Girls Code, for a Clubhouse conversation on girls and coding
--  **Kartik Talwar, Amjad Masad, Blake Lieberman, Gerry Ohstrom and Guillermo Rauch** for taking time to talk with us, brainstorm ideas and make introductions
+*Here’s a 2-minute read on how we’re building [Hack Club](https://hackclub.com)—sent to 88 recipients, including our major donors & friends. Thanks for this time together.*
 
-**Activity Update:** Looking back over the last 3 years, the number of weekly active teenagers on the Hack Club Slack roughly doubles each year, from 206 teenagers active each week in April 2019 to 743 teenagers last week.
+**Special thanks from Hack Club to:**
 
-We think this is because we're intensely focused on building a beautiful student experience, with increasing support from generous donors.
+- Joe Liemandt for donating $500k to Hack Club
+- Vitalik Buterin for a $300k gift in Ethereum to Hack Club
+- Tom Preston-Werner for his reverse 42nd birthday gift: buying train tickets for 42 Hack Clubbers
+- Elan Lee, former chief design officer of Xbox, for his AMA with Hack Clubbers
+- Elizabeth Stark, founder of Lightning Labs, for talking cryptocurrency with Hack Clubbers           
 
-**Hack Club March News:**
 
-We’re all about embracing the latest tech, and decentralized finance has been the talk of Hack Clubbers, with many teenagers buying crypto, building on top of Ethereum, minting their own tokens, and experimenting with practical applications.
+Hack Club is a network of technical teenagers from the US and around the world who run hundreds of their own after-school CS clubs and share their projects in our online community of 13,000 other teenagers. Hack Club has no teachers, fees, curriculum or classroom. Hack Club is totally free to teenagers, thanks to you.  
+
+**Hack Club’s snapshot of activity**
+
+- 2.6 million minutes spent in Hack Club Zoom meetings since Jan 1, 2021
+- 960,458 messages sent in our online community in 2021 as of May 8, 2021, a 210% increase over last year 
+- 1,465 new Slack accounts created, bringing us to 13,463 total accounts
  
-Our newest hire, engineer Zach Fogg, has worked closely with Rishi, 16 from Ontario, who created a Hack Club-wide currency called Hack Notes in Typescript. It has a GraphQL API and Hack Clubbers are building bots that require Hack Notes payment to use them, awarding Hack Notes to friends, and creating whimsical games on top of it.
 
-Also, meet Hack Club's AI Cow, built by Benjamin Ashbaugh, 16 from Colorado, after he got access to the OpenAI GPT-3 API. The Hack Club Cow roams around our online Slack community, where students have intelligent conversations with it, ask it to write Python, do advanced math, and push the limits of what GPT-3 is capable of.
+**STUDENT SHIPS:**
 
-![img](https://postal.hackclub.com/uploads/1617897617.png)
+**Look what Hack Clubbers are building**
 
-*Above, a screenshot of just one of hundreds of interactions students have with the Ben's GPT-3 powered cow in our online community*. 
+- Benjamin Ashbaugh, 16, Colorado, built [Tetris for Slack](https://cloud-i1szgd6ge-hack-club-bot.vercel.app/02021-06-10_at_18.19.33.gif), employing the most “insane and impressive” use of the Slack API our team has seen yet. [See the code](https://github.com/scitronboy/slack-tetris).
+ 
+- Ethereum founder Vitalik Buterin hung out with Hack Clubbers on [Devzat](https://github.com/quackduck/devzat), a SSH chat server built by Hack Clubber Ishan, 15, of Dubai using Go. Anyone is able to join by running $ ssh devzat.hackclub.com in their terminal.
+ 
+- Ngoc Khuat hacked SpaceX's Dragon2 capsule simulation to [autonomously dock the capsule](https://youtu.be/7i4xp-mwQZY) using chromedriver and Common Lisp. Watch the video, it's truly incredible. The entire docking process is entirely controlled with code. [See the source](https://github.com/qnkhuat/spacex).
+ 
+- Hack Club is covering the costs to use the OpenAI API for a Hack Clubber in Texas who is using GPT-3 to build bots for the community.
+ 
+- Belle, 16, from Malaysia made her first [open source contribution](https://github.com/hackclub/hack-as-a-service/pull/76) to [Hack as a Service](https://github.com/hackclub/hack-as-a-service), a community project to build a free Heroku alternative, by adding a dark mode toggle.
+ 
+- Charlie wants to build a code editor that can be used on iPads, and is collaborating with Jason, 16, from Texas and Linus from Seattle. He's trying to get around Apple's compiling limitations by embedding the editor in a browser.
+ 
+- A 16 year old Hack Clubber built [Lucia](https://github.com/aidenybai/lucia/), a lightweight frontend JavaScript framework. Lucia is now the first open source library to run on Hack Club Bank.
+ 
 
-Spring updates: 
+**Hi Hack Club Africa!**
 
--  More than 50 new Hack Club students have applied to start clubs; including in new places like rural Vermont and northern England.
--  At least 300 students have shipped projects in recent months, including developer tools, APIs, songs, frameworks and, custom-designed PCB boards including the [Orpheus Leap](https://leap.hackclub.com/), an Arduino-compatible board shaped like Orpheus, Hack Club's mascot. Designed by a 14-year-old who partnered with another Hack Clubber to find a manufacturer and ship 300 of them to fellow Hack Clubbers around the world. 
--  Starlink arrived at Hack Club’s headquarters last month, and we live-streamed our installation for students
--  A Hack Club alumni’s company, [Hightouch](https://techcrunch.com/2020/12/16/hightouch-raises-2-1m-to-help-businesses-get-more-value-from-their-data-warehouses/), hired its 13th employee
--  South African 10th grader Esperanza, 15, is the latest student to receive a need-based free iPad from Hack Club, 1 of 15 donated via Hack Club. 
+![Hack Club Africa Zoom Meeting Screenshot](https://cloud-f3lnx4lei-hack-club-bot.vercel.app/0africa_hack_club.jpg)
 
-Check out just a few of the incredible student projects shipped at Hack Club
+**Looking Ahead**
 
--  Lux, 17, of California, created Victus, a zero-dependency JavaScript game framework in 2.05 kilobytes of code, check it out: https://sporeball.dev/victus/
--  Adison Lampert, wrote a workshop for her Hack Club, demonstrating how to use HTML, CSS and JavaScript to build a word cloud generator. [Code on her GitHub.](https://github.com/addybug/workshop-word-cloud)
--  Using a laptop donated via Hack Club, Sam, 15, Singapore, ran his school’s Innovation Week, a series of technology events that introduced hundreds of students to coding, robotics and more. [Replit founder Amjad Masad tweeted about it.](https://twitter.com/amasad/status/1369359246425427968)
--  Rishi, 16, Ontario, shipped a new marketplace for Hack Notes, the new virtual currency for Hack Club that he built. [See Hack Notes on GitHub.](https://github.com/rishiosaur/hn)
--  Ishan, 15, Dubai, shipped [Devsat](https://github.com/quackduck/devsat), which is a simple chat app directly in your terminal. Try it out by running `$ ssh sshchat.hackclub.com` in your terminal.
+Hack Club is growing fast. This September we expect to see hundreds of new high schoolers applying to start Hack Clubs; daily activity in our online community shows a 75% increase for the first week of June 2021, compared to the same time period the year before. We will be announcing a major partnership in August for Hack Club Bank, our financial tool for teenagers. And we will announce 2 new high-level hires later in June.  
 
-Our thoughts are also turning to the post-pandemic future, and we’re preparing for a major opportunity for growth with a big summer program and the return to classrooms in September. Students are hungry for in-person collaboration, and we’ll be ready to help grow new clubs in more locations than ever.
+Nothing beats the energy in the community and HQ right now as we gear up for The Hacker Zephyr, our train trip across America. Our mission is to give Hack Clubbers an experience they'll remember forever. 
 
-We've received $550k in philanthropic gifts from 5 different donors since December. From the bottom of our hearts, thank you for providing Hack Clubbers with the experiences we wish we had as teenagers.
+Reach out if you'd like an invitation to meet us in San Francisco the evening of July 22nd!  
 
-warm regards, Christina, with Zach
+Hack Club is possible because of you. Thank you.
 
-\--
+Have a great summer! See you in July. Christina
+
+ 
+--
 
 Christina Asquith
-COO, Hack Club | [christina@hackclub.com](mailto:christina@hackclub.com) | [Donate](https://hackclub.com/donate)
 
-[@christinaasquit](https://twitter.com/ChristinaAsquit) / [web](https://christina.cool/) / [github](https://github.com/christinaasquith) 
+Chief Operating Officer, Hack Club | christina@hackclub.com | [Donate](https://hackclub.com/donate)
 
- 
-
-*(like in all Hack Club emails, we respect your privacy and don't track whether you open this email or click links in it. we only send this update to a small group of friends and supporters, if you'd prefer to not receive these, that's ok! click [here](https://postal.hackclub.com/unsubscribe-success.php?c=787))*
+[github](https://github.com/christinaasquith) / [linkedin](https://www.linkedin.com/in/christinaasquith)
