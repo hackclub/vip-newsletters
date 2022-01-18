@@ -1,64 +1,79 @@
-Hi and happy 2021 from Hack Club,
+Hi,
 
-We start the new year with a major $500,000 gift to Hack Club from our founding board member Tom Preston-Werner and his wife Theresa, co-founder and managing director of Preston-Werner Ventures. Thank you Tom and Theresa!
+It's Christina, COO of Hack Club, and this February's newsletter includes all our latest news - thanks for this time together!
 
-This gift will help thousands more teenagers join and lead Hack Clubs for free, from anywhere in the world. Already, we are growing our team, hiring 2 more talented engineers in student-facing roles that help make Hack Club *the best place on the internet for technical teenagers.*
+**Hack Club is a totally-free, student-led space for high schoolers to tinker and build with tech, make friends and learn to code.** With so many students still isolated and schooling remotely, we're making Hack Club the best place on the internet to be a technical teenager.
 
-![Picture of Arianna, a Hack Club member](https://postal.hackclub.com/uploads/1610487788.jpeg)
-*Arianna Martinelli, 16, leads a new Hack Club in Louisville, Kentucky.*
+Check out this Arduino Nano-compatible PCB built in January by Hugo Hu, 12, of New York. He made it in the shape of his Corgi.  Also, give a clap to Betsy Zhang, 16-- she's about to launch her first Hack Club with friends, none of whom have ever written a line of code. She built her first website for her club: https://flhs-hacks.flhshacks.repl.co/index.html
 
-*Here’s your 2-minute read on how we’re building [Hack Club](https://hackclub.com/)—sent to 92 recipients, including our major donors and friends. Thanks for this time together.*
+*Every month we send this 2-minute read on how we’re building Hack Club to our major donors and friends.*
 
-Special thanks to:
+![Corginator Image](https://postal.hackclub.com/uploads/1613686679.png)
 
--  Gwynne Shotwell, COO of SpaceX, for speaking to 125 Hack Club students in November, 48 hours before she put 4 astronauts into space 
--  Alex Fishman of Empros Capital for his donation and for mailing his entire client base about Hack Club 
--  Chris Van Pelt of Weights & Biases for his generous donation 
--  Ryan and Tessa Bone of Silver Lake Partners for their gift, and also time advising our leadership team 
+*Hugo's The Corginator is a custom corgi-shaped PCB, designed, manufactured, and shipped to Hack Clubbers across the US. He's selling it to the public online here.*
 
-Hack Club is a totally-free, student-led space for high school students to tinker and build with tech, make friends, and learn to code. 
+**Our ask to you:**
 
-**A Year in Review: These are Hack Club's 2020 Highlights:**
-
--  Hack Clubbers became extremely active online: daily active students on the Hack Club Slack grew 700% after COVID
--  500 after-school Hack Clubs (new applications in Sept 2020 during COVID were equal to 2019)
--  40 new technical workshops for Hack Club meetings were created by Hack Club leaders teaching JavaScript, Go, Rust, 3D graphics, and CSS
--  1,000 Hack Club teenagers attended 14 Hack Club AMAs
--  100 free laptops/iPads distributed to Hack Clubbers in need, with girls receiving 40 percent
--  Gained 10.8k new Twitter followers
--  $1.3 million donated to support Hack Club students in 2020, including $500k from Elon Musk's foundation
--  13 new major donors made first-time gifts to Hack Club
-
-Hack Club is a 501(c)(3) nonprofit, and our finances are 100% transparent and available in real time. 
-
-Check out a few amazing student projects from the last month: 
-
--  In Curitiba, Brazil, 16 year old Vitor Vavolizza, a teenage Hack Club leader, translated Hack Club’s website, and a workshop, into Portuguese for the 30 students in his club. “Most students here don't get the chance to code,” Vitor says.
+-We’re hiring for a Creative Director and Bank Operations Lead, and need help spreading the word. Please share our job descriptions.
+    - Creative Director: [https://hackclub.com/jobs/creative-director/](https://hackclub.com/jobs/creative-director/)
+    - Bank Operations Lead: [https://hackclub.com/jobs/bank-ops-lead/](https://hackclub.com/jobs/bank-ops-lead/)
     
--  In Washington state, high schooler Gary Tou set up LED lights inside his room that anyone on the internet could change. Gary connected a strip of NeoPixel RGBW LEDs to a Feather Huzzah ESP8266, which, using code, he connected with a Firebase database and a custom web frontend. You can change the colors of his bedroom lights right now at [https://lights.garytou.com](https://lights.garytou.com/)
-    
--  After his neighbor fell, 16 year old John Lins of Walnut Creek, California, built [“Fallen AI”](https://www.youtube.com/watch?v=HKw8pBRSjmA) a pose-detection AI built with TensorFlow.js to monitor the elderly and send notifications to their guardians in case of an emergency. With support from Hack Club, he built an email API with Go and trained a custom neural network by filming himself falling. He won 1st place in the category “most advanced” at HackTable, an online hackathon. Congrats!
-    
--  In Louisville, Kentucky, 2 new Hack Club students, Arianna Martinelli, and her brother Lorenzo, run separate clubs but they synced up their members for a “Hack Night” event where everyone got to hang out and share their first coding projects. Check out their [project page](https://padlet.com/brashearc21/yctm03jfhl9d8gbi).
+*(technical applicants can apply by running $ ssh jobs.hackclub.com in their terminal)*
 
-*“today was our last hack club meeting of 2020! we started our hack club when we went into quarantine with this crazy year and i am so glad we did! it's helped me grow as a leader and person and helped me learn so much. i am so excited to see what 2021 will look like for the world and for our club!”* 
+**Our special thanks to:**
 
-*- Risha Jhangiani, 16, Hack Club leader in Washington state*
+- Blake Lieberman, 25, a credit analyst with MSD Capital, for making a personal donation of $50,000 to Hack Club. Blake says he “super supports the mission of decentralization and greater access/opportunity for entrepreneurs.” Thank you Blake!
+ 
+- SpaceX President Gwynne Shotwell and Hack Club students are chatting on email now, as Gwynne continues to inspire Hack Clubbers by sharing advice, insights and support.
+ 
+- Ryan Caldbeck, co-founder and executive chairman of CircleUp, has just gifted Hack Club its first stock donation.
+ 
+- We made a dedicated thanks page to Tom and Theresa Preston-Werner for their $500,000 gift to Hack Club, and all their support. See why they support Hack Club at [https://hackclub.com/preston-werner/](https://hackclub.com/preston-werner/).
 
-Thank you again so much to the Preston-Werners for their landmark gift, making it possible for more teenagers to have the opportunities they had as young people. We are so humbled by their support for Hack Clubbers.
+**News**:
 
-Wishing you all a beautiful 2021. Thank you so much for reading and supporting us.
+In January, Hack Club founder Zach Latta was profiled in The Shelburne News, a local Vermont paper. It's here: [https://www.vtcng.com/shelburnenews/news/local_news/from-silicon-valley-to-shelburne/article_2c1962ee-5680-11eb-aba3-e7ab8baeb1d1.html](https://www.vtcng.com/shelburnenews/news/local_news/from-silicon-valley-to-shelburne/article_2c1962ee-5680-11eb-aba3-e7ab8baeb1d1.html)
 
-best, Christina
+See our team page to meet our two new engineers, Julie, 25, a coder artist, hardware maker, and former coding teacher, and Zach Fogg, 29, a highly-technical home-schooled engineer.
 
-\--
+![Julie](https://postal.hackclub.com/uploads/1613751900.jpg) ![Zach](https://postal.hackclub.com/uploads/1613751919.jpg)
 
+Getting physical mail is so exciting to students, so we built a mail station at Hack Club and we’ve been shipping out dozens of packages a week. We just finished sending 6,000 packages of Hack Club stickers to students from 128 different countries who requested them.
+
+Hack Club teenagers collaborated to design a custom-manufactured Hack Club microcontroller, designed, manufactured and shipped by Hack Clubbers called the Orpheus Leap. Can we send you one?
+
+![Orpehus Leap Blink GIF](https://postal.hackclub.com/uploads/1613751816.gif)
+
+**Magic Happening at Hack Club:**
+
+High school junior Kunal Botla, 15 of Massachusetts, fixed 5 broken laptops and shipped then to Hack Club in Zambia, where Club leader Parity is distributing them for free. Hack Club helped cover shipping costs via the **Ron Conway fund.**  
+
+GitHub is featuring hackclub/dns, our open source DNS repository, as the first example project for [OctoDNS](https://github.com/octodns/octodns).
+
+**Projects Hack Clubbers have built:**
+
+- With International Women's Day coming up March 8th, 5 Hack Clubbers have teamed up to create a beginner HTML workshop honoring female leaders
+ 
+- Ishan, 15, UAE, shipped a “recycle bin for the command line” and it got on the front page of ProductHunt https://www.producthunt.com/posts/rem
+ 
+- Khushraj. 15, India, ported all of Slack’s API packages to Deno: https://github.com/slack-deno (he now owns 0.5% of all Deno modules)
+ 
+- Arianna Martinelli, 16, of Kentucky just won her state's top 2021 NCWIT award
+ 
+- Lux, 17, California, made their own modular synthesizer https://hackclub.slack.com/archives/C0M8PUPU6/p1611778230283700
+ 
+- Rishi, 16, Canada, rewrote Hack Club’s gp currency from the ground up, making it much more stable and easy to use. It’s called Hack Notes (HN) now: [https://github.com/rishiosaur/hn](https://github.com/rishiosaur/hn)
+ 
+- Students keep building workshops for each other. Check these out:
+    - Sam (15, Singapore) wrote an experimental “Hacking Kahoot” workshop: https://workshops.hackclub.com/kahoot/
+    - Charalampos Fanoulis (15, Greece) and Panos (16, Greece) wrote a text adventure in Rust: https://workshops.hackclub.com/rust_text_game/
+    - Jeffrey Harmon (17, Indianna) wrote a particle physics simulator workshop:  https://workshops.hackclub.com/particle_physics/
+
+Hack Club engineer Matthew Stanciu, 18, regularly writes notes to Hack Club leaders around the world. Here's one reply he received recently from a Club leader in Brazil: *“These messages from Hack Club HQ give me so much happiness and inspiration, like wtf. The workshop bounty program has helped my club get an income, work as a team creating workshops, be better in English, and learn a lot more JavaScript.” -- WollyZR*
+
+Thanks for reading. See you in the Spring! best, Christina and Zach
+ 
+--
 Christina Asquith
-
-COO and Board, Hack Club | christina@hackclub.com | [Donate](https://hackclub.com/donate)
-
- 
-
- 
-
-*(like in all Hack Club emails, we respect your privacy and don't track whether you open this email or click links in it. we only send this update to a small group of friends and supporters, if you'd prefer to not receive these, that's ok! click [here](https://postal.hackclub.com/unsubscribe-success.php?c=635))*
+COO and board member, Hack Club
+christina@hackclub.com | [Donate](https://hackclub.com/donate)
