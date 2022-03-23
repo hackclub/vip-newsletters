@@ -50,4 +50,4 @@ Also, check out this recent television spot on Hack Club from a student leader i
 
 Hack Club is possible because of you. Thank you. Have a great summer! We'll write again in August.
 
-- Claire and Rishi (Hack Club summer 2021 interns), and Belle, Hack Clubber 
+—Claire and Rishi (Hack Club summer 2021 interns), and Belle, Hack Clubber 
