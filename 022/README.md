@@ -47,7 +47,7 @@ Joshua, 13, from Seattle, created [Coin Tunnel](https://www.coin-tunnel.ml/)**, 
 
 Anirudh, 17, from California, worked on [rust2nix](https://github.com/anirudhb/rust2nix), a build tools written in Nix which allows you to build Rust applications entirely in Nix.
 
-Jinmay, 15, of India built [tinypages](https://github.com/Borrus-sudo/tinypages), a static site renderer for Markdown files that also supports embedded Preact components.
+Jinmay, 16, from India built [tinypages](https://github.com/Borrus-sudo/tinypages), a static site generator based on Markdown files with Preactjs integration.
 
 Cedric, 19, and Kognise, 17, spent all weekend on a Zoom call making a [game](https://files.slack.com/files-pri/T0266FRGM-F02T99YB35Y/image.png) in JavaScript about growing trees to house squirrels.... It's a lot of fun
 
