@@ -15,6 +15,7 @@ Summer is starting strong: Just yesterday, we hit number 1 on Hacker News. In th
 
 **News from the Hackerverse:**
 
+<!-- // wasn't sent for some reason. I kept it in the markdown file for later reference.
 -   Hack Club earned the top spot on Hacker News yesterday for [“Some Assembly Required”](https://github.com/hackclub/some-assembly-required), an open source guide to one of the hardest coding languages to learn. The guide was created by Hack Club engineer Jessica Card and a team of teenagers. In less than 24 hours, the GitHub repository gained an amazing 1.3k stars and 549 upvotes on Hacker News.
 -   11,000 people watched founder Zach Latta on Joe Lonsdale's [American Optimist podcast](https://www.youtube.com/watch?v=PaB5ltDmD0Q). Thanks Joe!
 -   Hack Club Bank has surpassed $5.4 million in transactions– including more transactions in Q1 of 2022 than in all of 2021! Thanks to support from Elon Musk and others, Bank unlocks the financial system for teenagers.
@@ -23,6 +24,8 @@ Summer is starting strong: Just yesterday, we hit number 1 on Hacker News. In th
     -   $200k anonymous donation through the Silicon Valley Community Foundation.
     -   A matching challenge from Joe Lonsdale that yielded more than $70,000 thanks to additional help from Gerry Ohrstrom, Blake Lieberman and Eric Chen.
     -   Tom Preston-Werner celebrated his 43rd birthday by funding hand-held game consoles created at Hack Club for 430 Hack Clubbers!
+-->
+
 ![Tom Preston-Werner celebrated his 43rd birthday by funding hand-held game consoles created at Hack Club for 430 Hack Clubbers!](https://lh3.googleusercontent.com/uUsVBDZXz0zk_6DVkaSobLftAK1O-qxRyO0aEAFg8eaW2mnIaczYZXkRYAj6xJ2wdvmVews1ZOXYRXPJPXDGyuhqvZ3By_FbKEMPd4axmoNjtUaSB2lc74saQASP_OGVovgPsp0TBnQcd_lzHg)
 
 **Hack Clubber Projects:**
